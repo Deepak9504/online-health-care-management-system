@@ -1,5 +1,4 @@
 package threads;
-
 public class ReminderThread extends Thread {
     @Override
     public void run() {
