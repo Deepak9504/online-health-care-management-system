@@ -1,5 +1,4 @@
 package model;
-// model/Appointment.java
 public class Appointment implements Bookable {
     private Patient patient;
     private Doctor doctor;
