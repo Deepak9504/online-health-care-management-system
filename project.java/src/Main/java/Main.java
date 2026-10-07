@@ -7,7 +7,7 @@ public class Main {
         Doctor d = new Doctor(101, "Dr. Shyam", "shyam@hospital.com", "General Physician");
 
         Appointment a = new Appointment(p, d);
-        a.book();   // polymorphism
+        a.book();  
 
         AppointmentService<Appointment> service = new AppointmentService<>();
         service.addAppointment(a);
