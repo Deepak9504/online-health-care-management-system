@@ -2,8 +2,8 @@
 # Online Health Care Management System
 A Java–JDBC Based Healthcare Application
 
-Team Name: MEDITRACKERS
-Section: 14
+Team Name: COMPILE COMMANDER
+Section: 35
  #Introduction
 
 The Online Health Care Management System is a Java-based application designed to make healthcare services faster, easier, and more organized.
